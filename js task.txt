@@ -1,0 +1,17 @@
+1.Write a JavaScript program that accept two integers and display the larger.
+
+
+2.write a program to sum all number of loop.
+
+
+3. Take input(salary) from user, and calculate income tax for that salary, also take input for bonus and then calculate Total salary after addition of bonus and deduction of income tax.
+
+
+4. You are supposed to write a programe where you will get the value of temperature from User in Celcius and display an appropriate message according to temperature state below:
+
+Value of Temp < 0 then Freezing weather
+Value of Temp 0-10 then Very Cold weather
+Value of Temp 10-20 then Cold weather
+Value of Temp 20-30 then Normal in Temp
+Value of Temp 30-40 then Its Hot
+Value of Temp >=40 then Its Very Hot
